@@ -18,6 +18,6 @@ Deeply Object-Oriented
 
 适用各种程序设计课设 不设授权 随意使用
 
-![](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/snapshot.png)
+![截图](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/snapshot.png)
 
-![](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/umlclsdg.png "Class Diagram / 类图")
+![类图](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/umlclsdg.png "Class Diagram / 类图")
