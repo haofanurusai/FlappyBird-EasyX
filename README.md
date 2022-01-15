@@ -16,3 +16,6 @@ Deeply Object-Oriented
 全中文变量名和方法名 高度面向对象
 
 适用各种程序设计课设 不设授权 随意使用
+
+![](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/snapshot.png)
+![](https://raw.githubusercontent.com/haofanurusai/FlappyBird-EasyX/main/pic/umlclsdg.png "Class Diagram / 类图")
